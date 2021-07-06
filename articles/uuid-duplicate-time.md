@@ -3,7 +3,7 @@ title: "UUIDを重複させるにはどれだけ時間がかかるのか試し�
 emoji: "👻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [uuid, go]
-published: false
+published: true
 ---
 
 # 絶対に重複しないといわれるUUID
