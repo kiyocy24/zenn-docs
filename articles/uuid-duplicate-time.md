@@ -7,7 +7,7 @@ published: true
 ---
 
 # 絶対に重複しないといわれるUUID
-UUIDとはUniversally Unique Identifier の略で、「Universally」つまり将来にわたって重複や偶然の一致が怒らないという前提で使われるIDのことです。
+UUIDとはUniversally Unique Identifier の略で、「Universally」つまり将来にわたって重複や偶然の一致が起こらないという前提で使われるIDのことです。
 
 128ビットで表現されるUUIDは2^128通り（Version 4では固定値があるため2^122通り）あり、その膨大なパターンから将来に渡って重複しないとされています。その特性から、ファイルのハッシュ値に使われたり、DBのキーに使われたりしています。重複しないことが約束されているので、大変使い勝手が良いのです。
 
