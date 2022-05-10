@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/kiyocy24/zenn-docs#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.90"
+    "zenn-cli": "^0.1.110"
   }
 }
