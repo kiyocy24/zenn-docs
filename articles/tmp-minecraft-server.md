@@ -1,7 +1,7 @@
 ---
 title: "短期運用のMinecraftサーバをGCP上に爆速構築する"
 emoji: "🐕"
-type: "tech" # tech: 技術記事 / idea: アイデア
+type: "tech"
 topics: ["Minecraft", "GCP","Terraform", "Docker"]
 published: false
 ---
