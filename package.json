@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "textlint 'articles/**/*.md'"
+    "lint": "textlint \"articles/**/*.md\""
   },
   "repository": {
     "type": "git",
